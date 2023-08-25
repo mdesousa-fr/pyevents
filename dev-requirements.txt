@@ -1,0 +1,2 @@
+-r requirements.txt
+Faker==19.3.1
